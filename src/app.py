@@ -19,6 +19,8 @@ from nltk.tokenize import word_tokenize
 from nltk.probability import FreqDist
 import os
 
+nltk.download('stopwords')
+
 consumer_key = os.getenv('CONSUMER_KEY')
 consumer_secret = os.getenv('CONSUMER_SECRET')
 access_token = os.getenv('ACCESS_TOKEN')
