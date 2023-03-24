@@ -1,2 +1,2 @@
-# twitter_analysis_cffc
-Twitter analysis data for Chicago fire
+# Twitter analysis tool
+This is a twitter analysis tool built to analize and visualize twitter data using python, natrual language processing and streamlit
